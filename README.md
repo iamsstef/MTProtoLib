@@ -1,1 +1,4 @@
 # MTProtoLib
+
+Requirements:
+  telethon
